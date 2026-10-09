@@ -1,219 +1,256 @@
-# 👾 Priyanshi Sharma | AI Developer in Progress
+<!--
+  PRIYANSHI.EXE — NEON AI COMMAND CENTER
+  Replace the contents of your profile README.md with this file.
+-->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:15113b,100:00f7ff&height=200&section=header&text=PRIYANSHI.EXE&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20AGENTIC%20SYSTEMS&descSize=14&descAlignY=58" width="100%" alt="Animated neon AI developer banner"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Student;Building+Agentic+AI+Systems;LLMs+%7C+RAG+%7C+Intelligent+Automation;Learning+DBMS+%26+Docker;Open-Source+Contributor;Turning+Ideas+Into+Intelligent+Products" alt="Animated AI developer introduction"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:02040a,25:10002b,55:240046,80:0077b6,100:00f5d4&text=PRIYANSHI.EXE&fontColor=00fff0&fontSize=52&fontAlignY=38&desc=%5B%20ARTIFICIAL%20INTELLIGENCE%20%2F%2F%20AGENTIC%20SYSTEMS%20%5D&descSize=13&descAlignY=58&animation=twinkling" width="100%" alt="Animated neon cyberpunk AI command center banner"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-00ff9c?style=for-the-badge&labelColor=050816" alt="System online"/>
-  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-00f7ff?style=for-the-badge&labelColor=050816" alt="Artificial intelligence"/>
-  <img src="https://img.shields.io/badge/MODE-OPEN_SOURCE-bd00ff?style=for-the-badge&labelColor=050816" alt="Open source"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=1800&pause=350&color=00FFF0&center=true&vCenter=true&repeat=true&width=850&height=80&lines=%3E+INITIALIZING+NEURAL+INTERFACE...;%3E+AI+CORE+%3A%3A+ONLINE;%3E+AGENTIC+WORKFLOWS+%3A%3A+IN+PROGRESS;%3E+WEB+INTELLIGENCE+%3A%3A+CONNECTED;%3E+LEARNING+DBMS+%2B+DOCKER;%3E+BUILDING+THE+FUTURE.exe" alt="Animated cyber terminal status messages"/>
 
----
+<br/>
 
-## `> whoami`
+<img src="https://img.shields.io/badge/%E2%97%89%20SYSTEM-ONLINE-00ff9c?style=for-the-badge&labelColor=050711" alt="System online"/>
+<img src="https://img.shields.io/badge/NEURAL_CORE-AI-00fff0?style=for-the-badge&labelColor=050711" alt="AI neural core"/>
+<img src="https://img.shields.io/badge/AGENT_MODE-ACTIVE-bd00ff?style=for-the-badge&labelColor=050711" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/OPEN_SOURCE-UNLOCKED-ff2bd6?style=for-the-badge&labelColor=050711" alt="Open source"/>
 
-```python
-class Priyanshi:
-    name = "Priyanshi Sharma"
-    username = "priyanshi17112007"
-    role = "Artificial Intelligence Student"
+<br/><br/>
 
-    interests = [
-        "Artificial Intelligence",
-        "Agentic AI",
-        "LLMs & RAG",
-        "Intelligent Automation",
-        "Open Source"
-    ]
+<img src="https://komarev.com/ghpvc/?username=priyanshi17112007&label=SIGNALS%20DETECTED&color=00fff0&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/priyanshi17112007?label=NETWORK&style=for-the-badge&color=bd00ff&logo=github&logoColor=white" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/priyanshi17112007?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=REPOSITORY%20STARS&color=ff2bd6" alt="Repository stars"/>
 
-    currently_learning = ["DBMS", "SQL", "Docker"]
-
-    def mission(self):
-        return "Build AI that solves real-world problems."
-```
-
-I'm an Artificial Intelligence student passionate about building intelligent applications, exploring agentic workflows, and turning innovative ideas into practical software.
-
-I enjoy experimenting with LLMs, connecting AI models with real-world tools, and developing applications that go beyond simple prompts.
-
-- 🤖 Exploring **Agentic AI, LLMs, and Retrieval-Augmented Generation**
-- 🧠 Building AI-powered applications and intelligent workflows
-- 🐍 Developing with Python and modern AI APIs
-- 🗄️ Currently learning DBMS and SQL
-- 🐳 Exploring Docker and containerized applications
-- 🌱 Growing through hands-on projects and open-source contributions
+</div>
 
 ---
 
-## `> projects --featured`
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=INTELLIGENCE%20IN%20ACTION&fontSize=22&fontColor=00F7FF&animation=fadeIn" width="100%" alt="Intelligence in action"/>
-</p>
+### ` [ SYSTEM IDENTITY // 001 ] `
 
-### 01. 🤖 AI Customer Support Agent
+**ARTIFICIAL INTELLIGENCE STUDENT · AI BUILDER · OPEN-SOURCE CONTRIBUTOR**
+
+`THINK IN SYSTEMS` &nbsp; // &nbsp; `BUILD WITH INTELLIGENCE` &nbsp; // &nbsp; `SHIP THE FUTURE`
+
+</div>
+
+I'm Priyanshi Sharma, an Artificial Intelligence student exploring the intersection of LLMs, agentic workflows, intelligent applications, and real-world software engineering.
+
+I build to understand. I experiment to discover. I contribute to grow.
+
+<details open>
+<summary><b>⚡ ACCESS MY DEVELOPER PROFILE</b></summary>
+
+<br/>
+
+| <code>IDENTITY</code> | <code>LIVE CONFIGURATION</code> |
+|:---|:---|
+| `USER` | Priyanshi Sharma |
+| `HANDLE` | [@priyanshi17112007](https://github.com/priyanshi17112007) |
+| `PRIMARY DOMAIN` | Artificial Intelligence |
+| `EXPLORING` | Agentic AI · LLMs · RAG |
+| `CURRENT LEARNING` | DBMS · SQL · Docker |
+| `DEVELOPMENT MODE` | Build · Experiment · Contribute |
+| `MISSION` | Turn intelligent ideas into useful products |
+
+</details>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:050711,50:10132b,100:050711&text=%2F%2F%20PROJECTS.exe&fontColor=00fff0&fontSize=23&fontAlign=8&fontAlignY=55" width="100%" alt="Projects section banner"/>
+
+<div align="center">
+
+<sub>THREE PROJECTS // ONE MISSION: BUILD INTELLIGENT EXPERIENCES</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/PROJECT_01-AGENT_CORE-00fff0?style=for-the-badge&labelColor=080b18" alt="Project one"/>
+
+### 🤖 AI Customer Support Agent
+
+An AI-powered customer support project built with Python, focused on intelligent assistance and customer interactions.
+
+**TECH SIGNALS**
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="34" alt="Python"/>
+
+<img src="https://img.shields.io/badge/PYTHON-CORE-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python technology"/>
+
+<br/>
 
 <a href="https://github.com/priyanshi17112007/AI_CUSTOMER_SUPPORT_AGENT">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=050816" alt="View AI Customer Support Agent"/>
+<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00fff0?style=for-the-badge&logo=github&logoColor=black" alt="Open AI Customer Support Agent"/>
 </a>
-<img src="https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
-An AI-powered customer support project focused on using intelligent assistance to help users get relevant responses to their queries.
+</td>
+<td width="50%" valign="top">
 
-**Focus:** AI-powered support, intelligent responses, and customer interaction.
+<img src="https://img.shields.io/badge/PROJECT_02-NEURAL_SEARCH-bd00ff?style=for-the-badge&labelColor=080b18" alt="Project two"/>
 
----
+### 🧠 Aurex — Agentic Web RAG
 
-### 02. 🧠 Aurex — Agentic Web RAG
+An end-to-end Agentic Web Retrieval-Augmented Generation platform integrating real-time web retrieval, LLMs, and AI orchestration.
+
+**TECH SIGNALS**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" height="34" alt="Python and FastAPI"/>
+
+<img src="https://img.shields.io/badge/CrewAI-AGENT_ORCHESTRATION-00A67E?style=flat-square" alt="CrewAI"/>
+<img src="https://img.shields.io/badge/Groq-LLM-00A67E?style=flat-square" alt="Groq"/>
+<img src="https://img.shields.io/badge/LiteLLM-MODEL_ROUTING-00fff0?style=flat-square" alt="LiteLLM"/>
+<img src="https://img.shields.io/badge/Serper-REAL_TIME_SEARCH-bd00ff?style=flat-square" alt="Serper API"/>
+
+<br/>
 
 <a href="https://github.com/priyanshi17112007/Aurex-AgenticWeb-RAG">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-BD00FF?style=for-the-badge&logo=github&logoColor=white" alt="View Aurex project"/>
+<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-bd00ff?style=for-the-badge&logo=github&logoColor=white" alt="Open Aurex Agentic Web RAG"/>
 </a>
-<img src="https://img.shields.io/badge/AGENTIC_AI-00F7FF?style=for-the-badge" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" alt="Retrieval augmented generation"/>
 
-An end-to-end Agentic Web Retrieval-Augmented Generation platform built with **CrewAI, Groq LLM, Serper API, LiteLLM, and FastAPI**.
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-The project explores real-time web retrieval, AI orchestration, and workflows that combine external information with LLM-generated responses.
+<img src="https://img.shields.io/badge/PROJECT_03-DIGITAL_IDENTITY-ff2bd6?style=for-the-badge&labelColor=080b18" alt="Project three"/>
 
-**Tech stack:**
+### 📡 QR Scan Portfolio
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/CrewAI-00A67E?style=flat-square" alt="CrewAI"/>
-  <img src="https://img.shields.io/badge/Groq-00A67E?style=flat-square" alt="Groq"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/LiteLLM-00F7FF?style=flat-square" alt="LiteLLM"/>
-  <img src="https://img.shields.io/badge/Serper_API-8A2BE2?style=flat-square" alt="Serper API"/>
-</p>
+An AI-powered QR Code Portfolio application built with FastAPI, featuring QR-based profile access, dynamic profiling, and cloud database integration.
 
----
+**TECH SIGNALS**
 
-### 03. 📱 QR Scan Portfolio
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=dark" height="38" alt="Python, FastAPI and Docker"/>
+
+<img src="https://img.shields.io/badge/FASTAPI-BACKEND-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/DOCKER-CONTAINERS-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/CLOUD-DATABASE_INTEGRATION-00fff0?style=flat-square" alt="Cloud database integration"/>
+
+<br/>
 
 <a href="https://github.com/priyanshi17112007/QR_SCAN_PORTFOLIO">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-00FF9C?style=for-the-badge&logo=github&logoColor=050816" alt="View QR Scan Portfolio"/>
+<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-ff2bd6?style=for-the-badge&logo=github&logoColor=white" alt="Open QR Scan Portfolio"/>
 </a>
-<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
-An AI-powered QR Code Portfolio application built with FastAPI. Scan a QR code to access profile information, with dynamic profiling and cloud database integration.
+</td>
+</tr>
+</table>
 
-**Focus:** QR-based profile access, backend development, and database integration.
+<div align="center">
 
-**Tech stack:**
+<a href="https://github.com/priyanshi17112007?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-00fff0?style=for-the-badge&logo=github&logoColor=black" alt="Explore all repositories"/>
+</a>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Cloud_Database-00F7FF?style=flat-square" alt="Cloud database"/>
-</p>
+</div>
 
 ---
 
-## `> tech_stack --load`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:050711,50:10132b,100:050711&text=%2F%2F%20TECH_STACK.load%28%29&fontColor=00fff0&fontSize=21&fontAlign=8&fontAlignY=55" width="100%" alt="Technology stack banner"/>
 
-### 💻 Languages & Development
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode&theme=dark" alt="Programming language and development icons"/>
-</p>
+### `01 // CODE INTERFACE`
 
-### 🤖 Artificial Intelligence & Backend
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode&theme=dark" alt="Programming languages and developer tools"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,tensorflow,pytorch&theme=dark" alt="AI and backend technology icons"/>
-</p>
+### `02 // ARTIFICIAL INTELLIGENCE`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-Groq_API-00F7FF?style=for-the-badge" alt="Groq API"/>
-  <img src="https://img.shields.io/badge/Agent_Framework-CrewAI-BD00FF?style=for-the-badge" alt="CrewAI"/>
-  <img src="https://img.shields.io/badge/RAG-Web_Retrieval-00FF9C?style=for-the-badge" alt="RAG"/>
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,streamlit,tensorflow,pytorch&theme=dark" alt="AI and backend technologies"/>
 
-### 🗄️ Databases & DevOps
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,bash&theme=dark" alt="Databases and DevOps technology icons"/>
-</p>
+<img src="https://img.shields.io/badge/LLMs-GROQ_API-00fff0?style=for-the-badge" alt="LLM integration"/>
+<img src="https://img.shields.io/badge/AGENTS-CREWAI-bd00ff?style=for-the-badge" alt="CrewAI"/>
+<img src="https://img.shields.io/badge/RETRIEVAL-RAG-ff2bd6?style=for-the-badge" alt="RAG"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DBMS-LEARNING-FFB000?style=for-the-badge" alt="Learning DBMS"/>
-  <img src="https://img.shields.io/badge/SQL-LEARNING-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Learning SQL"/>
-  <img src="https://img.shields.io/badge/DOCKER-LEARNING-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Learning Docker"/>
-</p>
+### `03 // DATABASES + INFRASTRUCTURE`
 
-> The icons represent my development toolkit and areas of interest. I'm continuing to build practical experience with AI frameworks, databases, and containerization.
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,bash&theme=dark" alt="Database and DevOps technologies"/>
+
+<img src="https://img.shields.io/badge/DBMS-LEARNING-ffb000?style=for-the-badge" alt="DBMS learning"/>
+<img src="https://img.shields.io/badge/SQL-LEARNING-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL learning"/>
+<img src="https://img.shields.io/badge/DOCKER-LEARNING-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker learning"/>
+
+<sub>Some technologies represent my learning roadmap, not necessarily production-level proficiency.</sub>
+
+</div>
 
 ---
 
-## `> achievements --verified`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:050711,50:10132b,100:050711&text=%2F%2F%20ACHIEVEMENTS.unlock&fontColor=00fff0&fontSize=21&fontAlign=8&fontAlignY=55" width="100%" alt="Achievements banner"/>
 
-<p align="center">
-  <a href="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/">
-    <img src="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/first-contribution.jpg" width="180" alt="CyberSecTOBER 2026 First Contribution badge, verified"/>
-  </a>
-  <a href="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/">
-    <img src="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/ai-security-pioneer.jpg" width="180" alt="CyberSecTOBER 2026 AI Security Pioneer badge, verified"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <sub>Click either badge to visit the associated CyberSecTOBER profile.</sub>
-</p>
+<a href="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/">
+<img src="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/first-contribution.jpg" width="180" alt="CyberSecTOBER 2026 First Contribution badge, verified"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/">
+<img src="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/ai-security-pioneer.jpg" width="180" alt="CyberSecTOBER 2026 AI Security Pioneer badge, verified"/>
+</a>
 
----
+<br/>
 
-## `> github --live_stats`
+<sub>OPEN-SOURCE CONTRIBUTION // VERIFIED BADGE LINKS</sub>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshi17112007&show_icons=true&hide_border=true&bg_color=050816&title_color=00F7FF&icon_color=BD00FF&text_color=C9D1D9&include_all_commits=true" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi17112007&layout=compact&hide_border=true&bg_color=050816&title_color=00F7FF&text_color=C9D1D9" height="165" alt="Most used programming languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=priyanshi17112007&theme=tokyonight&hide_border=true&background=050816&ring=00F7FF&fire=BD00FF&currStreakLabel=00F7FF" width="90%" alt="GitHub contribution streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshi17112007&bg_color=050816&color=00F7FF&line=BD00FF&point=00FF9C&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-</p>
+</div>
 
 ---
 
-## `> connect --network`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:050711,50:10132b,100:050711&text=%2F%2F%20GITHUB.telemetry&fontColor=00fff0&fontSize=22&fontAlign=8&fontAlignY=55" width="100%" alt="GitHub telemetry banner"/>
 
-<p align="center">
-  <a href="https://github.com/priyanshi17112007">
-    <img src="https://img.shields.io/badge/GITHUB-PROFILE-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub profile"/>
-  </a>
-  <a href="https://github.com/priyanshi17112007?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-PROJECTS-BD00FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Learn continuously. Build intelligently. Contribute meaningfully.</b>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshi17112007&show_icons=true&hide_border=true&bg_color=050711&title_color=00fff0&icon_color=bd00ff&text_color=c9d1d9&ring_color=00fff0&include_all_commits=true" width="49%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi17112007&layout=compact&hide_border=true&bg_color=050711&title_color=00fff0&text_color=c9d1d9" width="49%" alt="Most used programming languages"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:15113B,100:050816&height=120&section=footer&animation=twinkling" width="100%" alt="Animated neon footer"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <code>while (learning) { build(); experiment(); contribute(); }</code>
-</p>
+<img src="https://streak-stats.demolab.com?user=priyanshi17112007&theme=tokyonight&hide_border=true&background=050711&ring=00fff0&fire=bd00ff&currStreakLabel=00fff0&sideLabels=00fff0&currStreakNum=00ff9c&sideNums=bd00ff&dates=8b949e" width="90%" alt="Current streak, longest streak and contribution statistics"/>
 
-<p align="center">
-  <sub>Crafted with curiosity, code, and a little neon magic. ✨</sub>
-</p>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshi17112007&bg_color=050711&color=00fff0&line=bd00ff&point=00ff9c&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:050711,50:10132b,100:050711&text=%2F%2F%20ESTABLISH_CONNECTION&fontColor=00fff0&fontSize=20&fontAlign=8&fontAlignY=55" width="100%" alt="Connect banner"/>
+
+<div align="center">
+
+<a href="https://github.com/priyanshi17112007">
+<img src="https://img.shields.io/badge/GITHUB-ACCESS_PROFILE-00fff0?style=for-the-badge&logo=github&logoColor=black" alt="GitHub profile"/>
+</a>
+<a href="https://github.com/priyanshi17112007?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-bd00ff?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+</a>
+<a href="https://www.linkedin.com/in/priyanshi-sharma-27a715338/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+</a>
+
+<br/><br/>
+
+<code>LEARN.exe → BUILD.exe → EXPERIMENT.exe → CONTRIBUTE.exe</code>
+
+<br/><br/>
+
+<b>THE FUTURE ISN'T LOADED. IT'S BEING BUILT.</b>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2200&pause=600&color=BD00FF&center=true&vCenter=true&width=650&lines=CONNECTION+ESTABLISHED.;NEURAL+NETWORK+EVOLVING...;NEXT+COMMIT%3A+INCOMING_;END_OF_TRANSMISSION_%E2%96%88" alt="Animated cyberpunk transmission footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00fff0,30:10002b,70:080b18,100:02040a" width="100%" alt="Neon cyberpunk footer"/>
+
+<sub>Designed in the dark. Powered by curiosity. Built with AI.</sub>
+
+</div>
