@@ -279,11 +279,9 @@ Technology logos indicate technologies associated with my projects or learning i
 <a href="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/">
 <img src="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/first-contribution.jpg" width="180" alt="CyberSecTOBER 2026 First Contribution badge"/>
 </a>
-&nbsp;
 <a href="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/">
 <img src="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/ai-security-pioneer.jpg" width="180" alt="CyberSecTOBER 2026 AI Security Pioneer badge"/>
 </a>
-
 <br/>
 
 <a href="https://github.com/priyanshi17112007?tab=repositories">
