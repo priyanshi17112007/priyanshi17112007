@@ -272,27 +272,36 @@ Technology logos indicate technologies associated with my projects or learning i
 
 ## `05 // OPEN_SOURCE.achievements`
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/CYBERSECTOBER-2026-39FF14?style=for-the-badge&labelColor=050505" alt="CyberSecTOBER 2026"/>
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-CONTRIBUTOR-BC13FE?style=for-the-badge&labelColor=050505" alt="Open Source Contributor"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=1700&pause=0&color=BC13FE&center=true&vCenter=true&repeat=true&width=750&height=40&lines=%3E%3E+CONTRIBUTION_PROTOCOL+INITIALIZED;%3E%3E+OPEN_SOURCE+IS+THE+FUTURE;%3E%3E+EVERY+CONTRIBUTION+COUNTS" alt="Animated open source heading"/>
+<p align="center">
+  <a href="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/">
+    <img src="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/first-contribution.jpg" width="180" alt="CyberSecTOBER 2026 First Contribution Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/">
+    <img src="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/ai-security-pioneer.jpg" width="180" alt="CyberSecTOBER 2026 AI Security Pioneer Badge"/>
+  </a>
+</p>
 
-<a href="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/">
-<img src="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/first-contribution.jpg" width="180" alt="CyberSecTOBER 2026 First Contribution badge"/>
-</a>
-<a href="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/">
-<img src="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/ai-security-pioneer.jpg" width="180" alt="CyberSecTOBER 2026 AI Security Pioneer badge"/>
-</a>
-<br/>
+<p align="center">
+  <b>First Contribution</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>AI Security Pioneer</b>
+</p>
 
-<a href="https://github.com/priyanshi17112007?tab=repositories">
-<img src="https://img.shields.io/badge/CONTRIBUTE-COLLABORATE-CONTINUE-39FF14?style=for-the-badge&labelColor=050505" alt="Contribute collaborate continue"/>
-</a>
+<p align="center">
+  <a href="https://cybersectober.github.io/Cybersectober/u/priyanshi17112007/">
+    View My CyberSecTOBER Achievements ↗
+  </a>
+</p>
 
-</div>
+I believe open source is one of the best ways to learn engineering, exchange ideas, and build software that others can use.
 
-I believe open source is one of the best ways to learn engineering, exchange ideas, and create software that others can use.
-
-My goal is to continue improving my skills through practical projects, meaningful contributions, and collaboration.
+My goal is to keep learning, contribute meaningfully to open-source projects, and collaborate with developers to create useful technology.
 
 ---
 
