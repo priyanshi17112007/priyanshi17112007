@@ -1,7 +1,7 @@
 <!--
   PRIYANSHI SHARMA // AGENTIC AI ENGINEER
-  Cyberpunk profile README :: github.com/priyanshi17112007
-  SETUP: upload the assets/ folder (hero-banner.png + agent-avatar.png) next to this README.
+  Profile README :: github.com/priyanshi17112007
+  SETUP: upload the assets/ folder (hero-banner.png + agent-avatar-dark.png + agent-avatar-light.png + tech-matrix.png) next to this README.
 -->
 
 <div align="center">
@@ -24,8 +24,8 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/priyanshi17112007?label=NETWORK&style=for-the-badge&color=BC13FE&logo=github&logoColor=white" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/priyanshi17112007?affiliations=OWNER%2CCOLLABORATOR&label=REPO%20STARS&style=for-the-badge&color=00F5D4&logo=github&logoColor=black" alt="Stars"/>
+<img src="https://img.shields.io/github/followers/priyanshi17112007?label=NETWORK&style=for-the-badge&color=BC13FE&logo=github&logoColor=white&cacheSeconds=3600" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/priyanshi17112007?affiliations=OWNER%2CCOLLABORATOR&label=REPO%20STARS&style=for-the-badge&color=00F5D4&logo=github&logoColor=black&cacheSeconds=3600" alt="Stars"/>
 <img src="https://img.shields.io/badge/CYBERSECTOBER-2026-39FF14?style=for-the-badge&labelColor=050505" alt="CyberSecTOBER 2026"/>
 
 <br/>
@@ -39,11 +39,33 @@
 <a id="whoami"></a>
 ## `01 // WHOAMI.exe`
 
-<img align="right" width="300" src="assets/agent-avatar.png" alt="Priyanshi avatar: cyberpunk coder girl running a swarm of AI agents"/>
+<table>
+<tr>
+<td valign="middle">
 
 Hey, I'm **Priyanshi Sharma**, an **AI engineer** building autonomous, tool-using systems with **LLMs, RAG, prompt engineering, workflow orchestration and multi-agent systems**.
 
 I'm passionate about intelligent, scalable automation for real-world problems. My focus isn't just *using* AI. It's building the **systems around it**: the planners, retrievers, tools and feedback loops that turn an LLM into an agent.
+
+**Want proof?** My code is in the repositories. 👉 Start with the projects below, or jump straight in:
+
+<a href="#projects"><img src="https://img.shields.io/badge/%F0%9F%91%89_EXPLORE_MY_PROJECTS-39FF14?style=for-the-badge&labelColor=050505" alt="Explore my projects"/></a>
+<a href="https://github.com/priyanshi17112007?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOSITORIES-BC13FE?style=for-the-badge&logo=github&logoColor=white&labelColor=050505" alt="All repositories"/></a>
+
+</td>
+<td align="center" valign="middle" width="340">
+
+<a href="#projects">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/agent-avatar-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/agent-avatar-light.png">
+  <img src="assets/agent-avatar-light.png" width="320" alt="GitHub mascot in a navy suit and glasses holding a laptop with a contribution graph, pointing toward the projects"/>
+</picture>
+</a>
+
+</td>
+</tr>
+</table>
 
 ```python
 class Priyanshi:
@@ -60,8 +82,6 @@ class Priyanshi:
             self.observe(result)          # learn from feedback
         return "Turning ideas into intelligent systems."
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -138,7 +158,7 @@ stateDiagram-v2
 ## `03 // PROJECTS.exe`
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1800&pause=0&color=39FF14&center=true&vCenter=true&repeat=true&width=800&height=45&lines=%3E%3E+4+SYSTEMS+LOADED;%3E%3E+EXPAND+A+MODULE+TO+INSPECT;%3E%3E+SOURCE+CODE+IS+THE+INTERFACE" alt="Project terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1800&pause=0&color=39FF14&center=true&vCenter=true&repeat=true&width=800&height=45&lines=%3E%3E+3+SYSTEMS+LOADED;%3E%3E+EXPAND+A+MODULE+TO+INSPECT;%3E%3E+SOURCE+CODE+IS+THE+INTERFACE" alt="Project terminal"/>
 </div>
 
 ### 🧠 PROJECT_01 // AUREX — AGENTIC WEB RAG
@@ -277,25 +297,6 @@ flowchart LR
 
 <a href="https://github.com/priyanshi17112007/QR_SCAN_PORTFOLIO">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshi17112007&repo=QR_SCAN_PORTFOLIO&theme=dark&hide_border=true&bg_color=050505&title_color=39FF14&icon_color=BC13FE&text_color=00F5D4" alt="QR repo card"/>
-</a>
-
-</details>
-
-### 🤖 PROJECT_04 // AI_CUSTOMER_SUPPORT_AGENT
-
-<details>
-<summary><b>Inspect intelligent customer support system</b></summary>
-
-<br/>
-
-An AI customer support agent built in **Python**, focused on intelligent assistance and handling customer interactions.
-
-<a href="https://github.com/priyanshi17112007/AI_CUSTOMER_SUPPORT_AGENT">
-<img src="https://img.shields.io/badge/%3E_OPEN_REPOSITORY-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="Open AI Customer Support Agent repo"/>
-</a>
-
-<a href="https://github.com/priyanshi17112007/AI_CUSTOMER_SUPPORT_AGENT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshi17112007&repo=AI_CUSTOMER_SUPPORT_AGENT&theme=dark&hide_border=true&bg_color=050505&title_color=39FF14&icon_color=BC13FE&text_color=00F5D4" alt="Support agent repo card"/>
 </a>
 
 </details>
@@ -470,20 +471,12 @@ I believe open source is one of the best ways to learn engineering, exchange ide
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshi17112007&show_icons=true&include_all_commits=true&hide_border=true&bg_color=050505&title_color=39FF14&icon_color=BC13FE&text_color=00F5D4&ring_color=39FF14" width="49%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi17112007&layout=compact&hide_border=true&bg_color=050505&title_color=39FF14&text_color=00F5D4" width="49%" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshi17112007&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=39FF14&icon_color=BC13FE&text_color=00F5D4&ring_color=39FF14&cache_seconds=21600" width="49%" alt="GitHub stats: commits, PRs, issues, contributions"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi17112007&layout=compact&hide_border=true&bg_color=050505&title_color=39FF14&text_color=00F5D4&cache_seconds=21600" width="49%" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=priyanshi17112007&theme=dark&hide_border=true&background=050505&ring=39FF14&fire=BC13FE&currStreakLabel=00F5D4&sideLabels=39FF14&currStreakNum=39FF14&sideNums=BC13FE&dates=8A8A8A" width="90%" alt="Contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshi17112007&bg_color=050505&color=39FF14&line=BC13FE&point=00F5D4&area=true&hide_border=true" width="100%" alt="Activity graph"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshi17112007&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies"/>
+<img src="https://streak-stats.demolab.com?user=priyanshi17112007&theme=dark&hide_border=true&background=050505&ring=39FF14&fire=BC13FE&currStreakLabel=00F5D4&sideLabels=39FF14&currStreakNum=39FF14&sideNums=BC13FE&dates=8A8A8A&cache_seconds=3600" width="90%" alt="Contribution streak"/>
 
 </div>
 
@@ -491,7 +484,7 @@ I believe open source is one of the best ways to learn engineering, exchange ide
 <summary><b>▸ TELEMETRY NOTES</b></summary>
 
 - **Views today / total:** hitscounter.dev (IST). **Signals detected** is the all-time komarev counter.
-- **Stats, languages, streak, graph, trophies:** third-party services; they may cache, rate-limit or go down briefly.
+- **Stats, languages and streak** are generated live from my GitHub account by third-party services, so new commits, PRs and contributions show up automatically after their short cache window (a few hours at most).
 
 </details>
 
