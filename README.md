@@ -76,7 +76,7 @@ I like projects where an LLM doesn't just answer, but **searches the web or call
 | **Focus** | Agentic AI, LLM applications, REST APIs |
 | **Building now** | Citations and better retrieval for Aurex |
 | **Learning next** | Vector databases, LangGraph, LLM evaluation, MCP |
-| **Problem solving** | LeetCode in Python, Java and C++ |
+| **Problem solving** | LeetCode in Python and C++ |
 
 ```python
 class Priyanshi:
