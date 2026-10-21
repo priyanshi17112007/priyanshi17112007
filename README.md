@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="assets/hero-banner.png" width="100%" alt="Priyanshi Sharma - agentic AI developer illustration with glowing holographic agent dashboards"/>
+<img src="assets/" width="100%" alt="Priyanshi Sharma - agentic AI developer illustration with glowing holographic agent dashboards"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=0:000000,35:031A0B,70:16002B,100:002B25&animation=twinkling" width="100%" alt="neon wave"/>
 
