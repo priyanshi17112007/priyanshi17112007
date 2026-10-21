@@ -11,7 +11,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=0:000000,35:031A0B,70:16002B,100:002B25&animation=twinkling" width="100%" alt="neon wave"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&duration=2600&pause=600&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=60&lines=3rd-year+engineering+student+%C2%B7+Jaipur;I+build+agents+that+search%2C+call+tools+and+answer;Python+%C2%B7+FastAPI+%C2%B7+CrewAI+%C2%B7+RAG;Open+to+AI%2FML+internships" alt="Calligraphy tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&duration=2600&pause=600&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=60&lines=3rd-year+engineering+student;I+build+agents+that+search%2C+call+tools+and+answer;Python+%C2%B7+FastAPI+%C2%B7+CrewAI+%C2%B7+RAG;Open+to+AI%2FML+internships" alt="Calligraphy tagline"/>
 
 <br/>
 
